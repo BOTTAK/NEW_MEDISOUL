@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "category": "Meditation",
+      "subcategories": [
+        {
+          "subcategory": "Rain",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Birds",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Ocean",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Ocean 2",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Relaxation",
+      "subcategories": [
+        {
+          "subcategory": "Nature",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Music",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Aromatherapy",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+          "subcategory": "Aromatherapy 2",
+          "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
+          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        }
+      ]
+    }
+  ]
+}
